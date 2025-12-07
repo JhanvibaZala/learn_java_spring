@@ -9,7 +9,7 @@ I believe in *learning by building* and sharing my progress openly — this repo
 
 ## 📌 Current Progress
 
-### ✅ Day 3 – First Spring Boot API
+### ✅ Day 1 – First Spring Boot API
 - Created my first Spring Boot project  
 - Built REST controllers using:
   - `@RestController`
